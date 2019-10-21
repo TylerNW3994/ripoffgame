@@ -1,5 +1,5 @@
 /*
- * The GUI interface for the Simple Register example.
+ * The GUI interface for the Simple Ripoff example.
  */
 package gui;
 
@@ -20,7 +20,7 @@ import javafx.stage.Stage;
 
 /**
  *
- * @author tnwallsc
+ * @author tnwallsc and heavily inspired by Ike Quigley
  */
 public final class RipoffGUI extends RipoffBase {
 
