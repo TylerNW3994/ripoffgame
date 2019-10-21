@@ -5,7 +5,7 @@ package events;
 
 /**
  *
- * @author tnwallsc
+ * @author tnwallsc and I guess Ike helped here too.
  */
 public class RipoffMessage {
     
