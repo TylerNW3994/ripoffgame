@@ -10,7 +10,7 @@ import javafx.stage.Stage;
 
 /**
  *
- * @author tnwallsc
+ * @author tnwallsc who changed like one line of Ike Quigley's code.
  */
 public class Main extends Application {
 
