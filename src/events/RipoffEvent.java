@@ -1,8 +1,8 @@
 package events;
 
 /**
- * A custom event class for handling events for the Simple Register system.
- * @author tnwallsc
+ * A custom event class for handling events for the Simple Ripoff system.
+ * @author tnwallsc and Ike Quigley might have helped a bit.
  */
 import java.util.EventObject;
 
